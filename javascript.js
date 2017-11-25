@@ -1,4 +1,7 @@
 //
+var x;
+delete x;
+
 
 if (x === -0) {
     // doSomething()
@@ -21,15 +24,8 @@ if (foo) {
 
 //
 
-
-//
-var x;
-delete x;
-
-//
-
-var num = 071;
 var result = 5 + 07;
+var num = 071;
 
 //
 
