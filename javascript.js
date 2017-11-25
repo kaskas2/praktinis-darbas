@@ -26,3 +26,9 @@ if (foo) {
 var x;
 delete x;
 
+//
+
+var num = 071;
+var result = 5 + 07;
+
+//
