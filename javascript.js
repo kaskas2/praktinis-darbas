@@ -1,6 +1,7 @@
 //
 var x;
-delete x;
+var a = 3;
+
 
 
 if (x === -0) {
@@ -9,7 +10,7 @@ if (x === -0) {
 
 //
 
-var a = 3;
+delete x;
 
 //
 
@@ -24,11 +25,9 @@ if (foo) {
 
 //
 
-var result = 5 + 07;
+
 var num = 071;
 
-//
-
-var a = 10;
+var a = 5 + 07;
 
 //
