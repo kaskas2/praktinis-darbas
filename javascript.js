@@ -23,3 +23,6 @@ if (foo) {
 
 
 //
+var x;
+delete x;
+
