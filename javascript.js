@@ -4,13 +4,13 @@ var a = 3;
 
 
 
-if (x === -0) {
+if (x === 0) {
     // doSomething()
 }
 
 //
 
-delete x;
+// delete x;
 
 //
 
@@ -26,7 +26,7 @@ if (foo) {
 //
 
 
-var num = 071;
+var num = "071";
 
 var a = 5 + 07;
 
