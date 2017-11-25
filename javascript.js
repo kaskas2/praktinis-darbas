@@ -32,7 +32,7 @@ var a = 5 + 07;
 
 //
 
-var x = 5;;
+var x = 5;
 
 function foo() {
     // code
