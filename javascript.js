@@ -1,16 +1,22 @@
-//
+// assign variables
 var x;
 var a = 3;
+var b = 071;
 
+//compare
+if (x === -0) {
+    // doSomething()
+}
 
+//reassign variables
+var a = 5;
 
-if (x === 0) {
+if (x === a) {
     // doSomething()
 }
 
 //
-
-// delete x;
+delete x;
 
 //
 
@@ -22,18 +28,3 @@ while (bar)
 if (foo) {
     baz();
 } else qux();
-
-//
-
-
-var num = "071";
-
-var a = 5 + 07;
-
-//
-
-var x = 5;
-
-function foo() {
-    // code
-};
