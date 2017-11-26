@@ -1,10 +1,10 @@
 // assign variables
-// var x;
+var x;
 var a = 3;
-var b = "071";
+var b = 071;
 
 //reassign variables
-// delete x;
+delete x;
 var a = 5;
 
 if (b === a) {
