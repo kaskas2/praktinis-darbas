@@ -9,16 +9,12 @@ if (x === -0) {
 }
 
 //reassign variables
+delete x;
 var a = 5;
 
-if (x === a) {
+if (b === a) {
     // doSomething()
 }
-
-//
-var a = x;
-delete x;
-
 
 //
 
