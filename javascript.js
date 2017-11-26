@@ -16,7 +16,9 @@ if (x === a) {
 }
 
 //
+var a = x;
 delete x;
+
 
 //
 
